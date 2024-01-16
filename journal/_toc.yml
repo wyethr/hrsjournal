@@ -4,6 +4,3 @@ parts:
   - caption: Issue 1
     chapters: 
       - file: issue1article1
-  - caption: Issue 2
-    chapters: 
-      - file: issue2article1

@@ -3,4 +3,6 @@ root: intro
 chapters: 
   - file: issue1/landing
     sections:
-      - file: issue1/article1/issue1article1
+    - file: issue1/humanities/landing
+      sections:
+      - file: issue1/humanities/article1/issue1article1

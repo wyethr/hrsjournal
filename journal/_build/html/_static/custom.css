@@ -1,3 +1,11 @@
 .bd-sidebar-secondary {
 	visibility: hidden;
 }
+
+.prev-next-area {
+	visibility: hidden;
+}
+
+.bd-header-article {
+	visibility:hidden;
+}

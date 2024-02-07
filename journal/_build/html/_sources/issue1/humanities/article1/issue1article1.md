@@ -4,6 +4,8 @@
 | Published online 16 January 2024
 | Honors Research in the Humanities
 
+
+
 ```{margin} Access Options
 
 Download the full paper [here](./issue1article1.pdf).
@@ -15,6 +17,8 @@ Download the poster [here](./issue1article1.png).
 :class: note
 This paper develops a research plan to compare the development of slang referring to the female genitalia to that referring to the male genitalia in British English between the thirteenth and nineteenth centuries. In doing so, it seeks to elucidate the development of a cultural taboo surrounding sex and sexual organs, as well as how that development played out differently for male and female bodies in England. After compiling a compendium of almost 700 vaginal slang terms and over 1,700 textual examples of those terms (available here), the paper argues that cunt became a “dirty word” in the centuries following the medieval ages as a growing conception of privacy among the upper class combined with elitism to create a taboo around the sexual vocabulary associated with the lower classes. However, further research and data collection is needed to determine whether that growing stigma was targeted particularly at female bodies.
 ```
+
+````{div} full-width
 
 ## References
 
@@ -107,3 +111,5 @@ Stone, Lawrence. *The family, sex and marriage in England, 1500-1800.* New York:
 “Tom Tinker.” In *Wit and Mirth: or Pills to Purge Melancholy,* edited by Thomas d’Urfey. New York: Folklore Library Publishers, 1959; Project Gutenberg, August 10, 2010. https://www.gutenberg.org/ebooks/33404. 
 
 Wilmot, John. “Written Under Nelly’s Picture.” In *Collected Works Of John Wilmot Earl Of Rochester,* edited by John Hayward. London: Nonesuch Press, 1926; Internet Archive, January 18, 2017. https://archive.org/details/in.ernet.dli.2015.208065/page/n5/mode/2up.
+
+````

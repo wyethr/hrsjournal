@@ -1,9 +1,13 @@
-title: TITLE
+title: Eureka Journal
 author: Marlborough School
-# logo: 
+logo: images/logo.png
+
 execute:
   execute_notebooks: force
 
 latex:
   latex_documents:
     targetname: book.tex
+    
+html:
+  home_page_in_navbar: false  

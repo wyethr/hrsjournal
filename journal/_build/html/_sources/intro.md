@@ -1,3 +1,5 @@
-# Welcome to Marlborough's Research Journal.
+````{div} full-width
 
-if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve 
+![welcome](./images/welcomeToEureka.png)
+
+````

@@ -1,5 +1,9 @@
-title: Research Journal
+title: TITLE
 author: Marlborough School
 # logo: 
 execute:
   execute_notebooks: force
+
+latex:
+  latex_documents:
+    targetname: book.tex

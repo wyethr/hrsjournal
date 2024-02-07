@@ -1,6 +1,6 @@
 format: jb-book
 root: intro
-parts: 
-  - caption: Issue 1
-    chapters: 
-      - file: issue1article1
+chapters: 
+  - file: issue1/landing
+    sections:
+      - file: issue1/article1/issue1article1

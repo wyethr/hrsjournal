@@ -1,3 +1,3 @@
-# Welcome
+# Welcome to Marlborough's Research Journal.
 
 if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve if i add a bunch of text does this solve 

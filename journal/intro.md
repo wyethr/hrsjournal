@@ -23,17 +23,53 @@ Penelope Pressman | *Graphic Design Editor*
 
 </div>
 
-*Eureka!* was resurrected in 2024 to publish Marlborough students' research. Its inaugural issue appeared in print in 2013, edited by Dr. Elizabeth Ashforth, the then head of Marlborough's Honors Research in Science. From 2014 through 2017, four print issues of *Eureka!* showcased students' Honors Research projects. In 2024, seniors Eli and Wyeth brought *Eureka!* online to include Marlborough students outside of Honors Research, and to give students firsthand experience with the peer-review process. It is now an entirely student-led publication, with student researchers, editors, and peer reviewers highlighting Marlborough students' academic scholarship.
+*Eureka!* was resurrected in 2024 to publish Marlborough students' research. Its inaugural issue appeared in print in 2013, edited by Dr. Elizabeth Ashforth, the then head of Marlborough's Honors Research in Science. From 2014 through 2017, four print issues of *Eureka!* showcased students' Honors Research projects. In 2024, seniors Eli and Wyeth brought *Eureka!* online to include Marlborough students outside of Honors Research, and to give students firsthand experience with the peer review process. It is now an entirely student-led publication, with student researchers, editors, and peer reviewers highlighting Marlborough students' academic scholarship.
+
+#### *What is the cluster peer review system?* 
+
+In the first semester, researchers are split into clusters, where each member of the cluster thoroughly reads and edits each of the other members' work. Through this system, students learn how to edit their own work as well as that of others, and the demands of academic editing.
+
+In the second semester, the *Eureka!* staff does final edits to standardize articles' formatting, grammar, and writing style.
 
 ## <font color=#3B1072>How to Get Involved</font>
 
 ### <font color=#3B1072>Potential Researchers</font>
 
+#### Eligibility
+
+All upper school students are invited to submit research that they've completed, whether it be through the Honors Research program, other Marlborough classes, or outside of the school. They must already have a rough or final draft of the article, and be prepared to submit their work through intensive editing and peer review.
+
+#### Timeline and Due Dates
+
 TBD
 
 ### <font color=#3B1072>Potential Editors</font>
 
+We are currently closed for staff applications.
+
+### Eligibility
+
 TBD
+
+#### <font color=#3B1072> Available Positions </font>
+
+##### Sciences
+
+Sciences Editor-In-Chief
+
+Sciences Editors
+
+##### Humanities & Social Sciences
+
+Humanities & Social Sciences Editor-In-Chief
+
+Humanities & Social Sciences Editors
+
+##### Website
+
+Website Editor-In-Chief
+
+Website Editors
 
 ````
 

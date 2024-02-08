@@ -14,7 +14,7 @@ Download the poster [here](./issue1article1.png).
 ```
 
 ```{admonition} Abstract
-:class: note
+:class: abstract
 This paper develops a research plan to compare the development of slang referring to the female genitalia to that referring to the male genitalia in British English between the thirteenth and nineteenth centuries. In doing so, it seeks to elucidate the development of a cultural taboo surrounding sex and sexual organs, as well as how that development played out differently for male and female bodies in England. After compiling a compendium of almost 700 vaginal slang terms and over 1,700 textual examples of those terms (available here), the paper argues that cunt became a “dirty word” in the centuries following the medieval ages as a growing conception of privacy among the upper class combined with elitism to create a taboo around the sexual vocabulary associated with the lower classes. However, further research and data collection is needed to determine whether that growing stigma was targeted particularly at female bodies.
 ```
 

@@ -6,11 +6,14 @@ html {
 html[data-theme=light] {
 	--pst-color-link: #5D00C6;
 	--pst-color-link-hover: #E7D2FF;
+
+	--pst-color-primary: #5D00C6;
 }
 
 :root, [data-bs-theme=light] {
 	--bs-link-color: #5D00C6;
 	--bs-link-hover-color: #E7D2FF;
+	--bs-primary: #5D00C6;
 }
 
 .bd-sidebar-secondary {

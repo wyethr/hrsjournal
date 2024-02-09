@@ -11,6 +11,10 @@
 <img src="./images/book1.png" alt="book"/>
 </div>
 
+## Potential Font
+
+Montserrat
+
 ## Brand Guide
 
 dark purple: #3B1072

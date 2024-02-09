@@ -6,7 +6,9 @@
 
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Search - Eureka Journal</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>&lt;no title&gt; &#8212; Eureka Journal</title>
   
   
   
@@ -33,7 +35,7 @@
     <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css?v=0a3b3ea7" />
-    <link rel="stylesheet" type="text/css" href="_static/custom.css?v=0577c9cf" />
+    <link rel="stylesheet" type="text/css" href="_static/custom.css?v=74b24aff" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
   <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae" />
@@ -56,12 +58,10 @@
     <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'search';</script>
-  <script src="_static/searchtools.js"></script>
-  <script src="_static/language_data.js"></script>
-  <script src="searchindex.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'intro';</script>
     <link rel="index" title="Index" href="genindex.html" />
-    <link rel="search" title="Search" href="#" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Issue 1 (2023-24)" href="issue1/landing.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -97,7 +97,7 @@
     <div class="search-button__overlay"></div>
     <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
-      action="#"
+      action="search.html"
       method="get">
   <i class="fa-solid fa-magnifying-glass"></i>
   <input type="search"
@@ -141,7 +141,7 @@
 
   
 
-<a class="navbar-brand logo" href="intro.html">
+<a class="navbar-brand logo" href="#">
   
   
   
@@ -152,8 +152,8 @@
       
     
     
-    <img src="_static/newPencil.png" class="logo__image only-light" alt="Eureka Journal - Home"/>
-    <script>document.write(`<img src="_static/newPencil.png" class="logo__image only-dark" alt="Eureka Journal - Home"/>`);</script>
+    <img src="_static/logoOption.png" class="logo__image only-light" alt="Eureka Journal - Home"/>
+    <script>document.write(`<img src="_static/logoOption.png" class="logo__image only-dark" alt="Eureka Journal - Home"/>`);</script>
   
   
 </a></div>
@@ -223,6 +223,54 @@
 
 
 
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/intro.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
 <button onclick="toggleFullScreen()"
   class="btn btn-sm btn-fullscreen-button"
   title="Fullscreen mode"
@@ -256,7 +304,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -265,42 +315,84 @@ document.write(`
 </div>
               
               
-  <div class="bd-search-container">
-    <h1>Search</h1>
-    <noscript>
-      <div class="admonition error">
-        <p class="admonition-title">Error</p>
-        <p>Please activate JavaScript to enable the search functionality.</p>
-      </div>
-    </noscript>
-    
-<form class="bd-search d-flex align-items-center"
-      action="#"
-      method="get">
-  <i class="fa-solid fa-magnifying-glass"></i>
-  <input type="search"
-         class="form-control"
-         name="q"
-         id="search-input"
-         placeholder="Search this book..."
-         aria-label="Search this book..."
-         autocomplete="off"
-         autocorrect="off"
-         autocapitalize="off"
-         spellcheck="false"/>
-  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-    <div id="search-results"></div>
-  </div>
-  <script>
-    // Activate the search field on page load
-    let searchInput = document.querySelector("form.bd-search input");
-    if (searchInput) {
-        searchInput.focus();
-        searchInput.select();
-        console.log("[PST]: Set focus on search field.");
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1><no title></h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <div class="full-width docutils">
+<div style="text-align: center;"> 
+<h1 class="rubric" id="welcome-to-eureka"><font color=#3B1072>Welcome to <em>Eureka!</em></font></h1>
+</div>
+<h2 class="rubric" id="about-the-journal"><font color=#3B1072>About the Journal</font></h2>
+<div style="text-align: center;"> 
+<aside class="sidebar">
+<p class="sidebar-title"><em><font color=#3B1072>Current Staff</font></em></p>
+<p>Eli Lerner | <em>Editor-In-Chief</em></p>
+<p>Wyeth Renwick | <em>Website Editor</em></p>
+<p>Penelope Pressman | <em>Graphic Design Editor</em></p>
+</aside>
+</div>
+<p><em>Eureka!</em> was resurrected in 2024 to publish Marlborough students’ research. Its inaugural issue appeared in print in 2013, edited by Dr. Elizabeth Ashforth, the then head of Marlborough’s Honors Research in Science. From 2014 through 2017, four print issues of <em>Eureka!</em> showcased students’ Honors Research projects. In 2024, seniors Eli and Wyeth brought <em>Eureka!</em> online to include Marlborough students outside of Honors Research, and to give students firsthand experience with the peer review process. It is now an entirely student-led publication, with student researchers, editors, and peer reviewers highlighting Marlborough students’ academic scholarship.</p>
+<h4 class="rubric" id="what-is-the-cluster-peer-review-system"><em>What is the cluster peer review system?</em></h4>
+<p>Researchers are split into clusters, where each member of the cluster thoroughly reads and edits each other member’s work. Through this system, students learn how to edit their own work as well as others’, and the demands of academic editing.</p>
+<h2 class="rubric" id="how-to-get-involved"><font color=#3B1072>How to Get Involved</font></h2>
+<h3 class="rubric" id="potential-researchers"><font color=#3B1072>Potential Researchers</font></h3>
+<h4 class="rubric" id="eligibility">Eligibility</h4>
+<p>All upper school students are invited to submit research that they’ve completed, whether it be through the Honors Research program, other Marlborough classes, or outside of the school. They must already have a rough or final draft of the article, and be prepared to submit their work through intensive editing and peer review.</p>
+<h4 class="rubric" id="timeline-and-due-dates">Timeline and Due Dates</h4>
+<p>TBD</p>
+<h3 class="rubric" id="potential-editors"><font color=#3B1072>Potential Editors</font></h3>
+<p>We are currently closed for staff applications.</p>
+<h3 class="rubric" id="id1">Eligibility</h3>
+<p>TBD</p>
+<h4 class="rubric" id="available-positions"><font color=#3B1072> Available Positions </font></h4>
+<h5 class="rubric" id="sciences">Sciences</h5>
+<p>Sciences Editor-In-Chief</p>
+<p>Sciences Editors</p>
+<h5 class="rubric" id="humanities-social-sciences">Humanities &amp; Social Sciences</h5>
+<p>Humanities &amp; Social Sciences Editor-In-Chief</p>
+<p>Humanities &amp; Social Sciences Editors</p>
+<h5 class="rubric" id="website">Website</h5>
+<p>Website Editor-In-Chief</p>
+<p>Website Editors</p>
+</div>
+<div class="toctree-wrapper compound">
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
     }
-  </script>
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
 
               
               
@@ -309,6 +401,15 @@ document.write(`
                 <footer class="prev-next-footer">
                   
 <div class="prev-next-area">
+    <a class="right-next"
+       href="issue1/landing.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title"><font color=#3B1072> Issue 1 (2023-24) </font></p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
 </div>
                 </footer>
               

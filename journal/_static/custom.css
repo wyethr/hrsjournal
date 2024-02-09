@@ -35,3 +35,12 @@ div.abstract {
 div.abstract .admonition-title {
 	background-color: #E7D2FF;
 }	
+
+.column {
+	flex: 33%;
+	padding: 5px;
+}
+
+.row {
+	display: flex;
+}

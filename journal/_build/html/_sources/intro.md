@@ -47,11 +47,17 @@ TBD
 
 We are currently closed for staff applications.
 
-### Eligibility
+#### Eligibility
 
 TBD
 
-#### <font color=#3B1072> Available Positions </font>
+#### Available Positions
+
+<div class="row">
+
+<div class="column">
+
+<div style="text-align: center;"> 
 
 ##### Sciences
 
@@ -59,17 +65,39 @@ Sciences Editor-In-Chief
 
 Sciences Editors
 
+</div>
+
+</div>
+
+<div class="column">
+
+<div style="text-align: center;"> 
+
 ##### Humanities & Social Sciences
 
 Humanities & Social Sciences Editor-In-Chief
 
 Humanities & Social Sciences Editors
 
+</div>
+
+</div>
+
+<div class="column">
+
+<div style="text-align: center;"> 
+
 ##### Website
 
 Website Editor-In-Chief
 
 Website Editors
+
+</div>
+
+</div>
+
+</div>
 
 ````
 

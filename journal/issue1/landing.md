@@ -10,7 +10,4 @@ Hi Dr. Ponzio and Dr. Lynch!
 
 Eli Lerner | *Editor-In-Chief*
 
-Wyeth Renwick | *Website Editor*
-
-Penelope Pressman | *Graphic Design Editor*
-
+[Wyeth Renwick](../authors/wyethRenwick/wyethRenwick.md) | *Website Editor*

@@ -15,9 +15,7 @@
 
 Eli Lerner | *Editor-In-Chief*
 
-Wyeth Renwick | *Website Editor*
-
-Penelope Pressman | *Graphic Design Editor*
+[Wyeth Renwick](./authors/wyethRenwick/wyethRenwick.md) | *Website Editor*
 
 ```
 
@@ -45,7 +43,7 @@ TBD
 
 ### <font color=#3B1072>Potential Staff</font>
 
-We are currently closed for staff applications.
+We are currently closed for staff applications. Dr. Ponzio and Dr. Lynch will announce final staff decisions for Issue 2 (2024-25).
 
 #### Eligibility
 
@@ -53,13 +51,15 @@ Upper school students are invited to apply, especially those with a background i
 
 #### Staff Positions
 
+<div style="text-align: center; border-width: 3px; border-style:dashed; border-color:#E7D2FF; padding: 1em;"> 
+
+<p> </p>
+
 <div class="row">
 
 <div class="column">
 
-<div style="text-align: center;"> 
-
-##### *Sciences*
+***Sciences***
 
 Sciences Editor-In-Chief
 
@@ -67,13 +67,9 @@ Sciences Editors
 
 </div>
 
-</div>
-
 <div class="column">
 
-<div style="text-align: center;"> 
-
-##### *Humanities & Social Sciences*
+***Humanities & Social Sciences***
 
 Humanities & Social Sciences Editor-In-Chief
 
@@ -81,19 +77,13 @@ Humanities & Social Sciences Editors
 
 </div>
 
-</div>
-
 <div class="column">
 
-<div style="text-align: center;"> 
-
-##### *Website*
+***Website***
 
 Website Editor-In-Chief
 
 Website Editors
-
-</div>
 
 </div>
 

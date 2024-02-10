@@ -6,8 +6,11 @@ Hi Dr. Ponzio and Dr. Lynch!
 
 ## Contributors
 
+[Wyeth Renwick](../authors/wyethRenwick/wyethRenwick.md)
+| *Humanities*
+
 ## Journal Staff
 
 Eli Lerner | *Editor-In-Chief*
 
-[Wyeth Renwick](../authors/wyethRenwick/wyethRenwick.md) | *Website Editor*
+[Wyeth Renwick](../authors/wyethRenwick/wyethRenwick.md) | *Editor-In-Chief*

@@ -7,6 +7,11 @@
 
 ![book](./images/book1.png)
 
+```{image} ./images/book1.png
+:width: 50%
+:align: center
+```
+
 <div>
 <img src="./images/book1.png" alt="book"/>
 </div>

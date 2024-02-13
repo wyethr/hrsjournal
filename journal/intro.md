@@ -1,4 +1,3 @@
-
 ````{div} full-width
 
 <div style="text-align: center;"> 

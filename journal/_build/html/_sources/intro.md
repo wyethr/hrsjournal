@@ -1,5 +1,9 @@
-
 ````{div} full-width
+
+```{image} ./images/book1.png
+:width: 50%
+:align: center
+```
 
 <div style="text-align: center;"> 
 

@@ -20,9 +20,9 @@ Eli Lerner | *Editor-In-Chief*
 
 #### *What is the cluster peer review system?* 
 
-In the first semester, researchers are split into clusters, where each member of the cluster thoroughly reads and edits each of the other members' work. Through this system, students develop critical thinking and writing skills while learning how to edit their own work as well as that of others.
+In the first semester, researchers are split into clusters, where each member of the cluster thoroughly reads and edits each other's work. Through this system, students refine their critical thinking and writing skills while learning how to deliver constructive criticism effectively.
 
-In the second semester, the *Eureka!* staff does final edits to standardize articles' formatting, grammar, and writing style.
+In the second semester, the *MARS* staff does final edits to standardize articles' formatting, grammar, and writing style.
 
 ## <font color=#3B1072>How to Get Involved</font>
 
@@ -30,7 +30,7 @@ In the second semester, the *Eureka!* staff does final edits to standardize arti
 
 #### Eligibility
 
-All upper school students are invited to submit research that they've completed, whether it be through the Honors Research program, other Marlborough classes, or outside of the school. They must already have a rough or final draft of the article, and they should be prepared to submit their work through intensive editing and peer review.
+All upper school students are invited to submit research that they've completed, whether it be through the Honors Research program, other Marlborough classes, or outside of school. Potential submitters must already have a rough or final draft of the article, and they should be prepared to submit their work through intensive editing and peer review.
 
 #### Timeline and Due Dates
 

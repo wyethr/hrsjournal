@@ -22,7 +22,7 @@ Eli Lerner | *Editor-In-Chief*
 
 In the first semester, researchers are split into clusters, where each member of the cluster thoroughly reads and edits each of the other members' work. Through this system, students develop critical thinking and writing skills while learning how to edit their own work as well as that of others.
 
-In the second semester, the *Eureka!* staff does final edits to standardize articles' formatting, grammar, and writing style.
+In the second semester, the *MARS* staff does final edits to standardize articles' formatting, grammar, and writing style.
 
 ## <font color=#3B1072>How to Get Involved</font>
 

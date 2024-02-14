@@ -1,12 +1,5 @@
 # hrsjournal
 
-## To Ask Dr. Kessner
-
-1. How do we fix the .ccs file not showing up in the web version?
-2. How can I make the book show up in .html? (Because I need to be able to resize)
-
-## Use Sphinx for images
-
 ## Potential Font
 
 Montserrat

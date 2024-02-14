@@ -1,3 +1,8 @@
+```{image} wyethRenwick.jpeg
+:height: 100px
+:align: left
+```
+
 # Wyeth Renwick 
 
 Marlborough 2024

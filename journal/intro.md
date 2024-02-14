@@ -1,10 +1,6 @@
+# <font color=#3B1072> Welcome to MARS. </font>
+
 ````{div} full-width
-
-<div style="text-align: center;"> 
-
-# <font color=#3B1072>Welcome to *Eureka!*</font>
-
-</div>
 
 ## <font color=#3B1072>About the Journal</font>
 
@@ -20,7 +16,7 @@ Eli Lerner | *Editor-In-Chief*
 
 </div>
 
-*Eureka!* was resurrected in 2024 to publish Marlborough students' research. Its inaugural issue appeared in print in 2013, edited by Dr. Elizabeth Ashforth, the then head of Marlborough's Honors Research in Science. From 2014 through 2017, four print issues of *Eureka!* showcased students' Honors Research projects. Seven years later, seniors Eli and Wyeth brought *Eureka!* online to include Marlborough students outside of Honors Research, and to give students firsthand experience with the peer review process. It is now an entirely student-led publication, with student researchers, editors, and peer reviewers highlighting Marlborough students' academic scholarship.
+*MARS,* Marlborough's Academic Research and Scholarship, was founded in 2023. The original Honors Research journal - *Eureka!* - first appeared in print in 2013, edited by Dr. Elizabeth Ashforth, the then head of Marlborough's Honors Research in Science. From 2014 through 2017, four print issues of *Eureka!* showcased students' Honors Research projects. Six years later, seniors Eli and Wyeth brought *MARS* online to include Marlborough students outside of Honors Research, and to give students firsthand experience with the peer review process. It is now an entirely student-led publication, with student researchers, editors, and peer reviewers highlighting Marlborough students' academic scholarship.
 
 #### *What is the cluster peer review system?* 
 

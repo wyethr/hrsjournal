@@ -1,10 +1,5 @@
 ````{div} full-width
 
-```{image} ./images/book1.png
-:width: 50%
-:align: center
-```
-
 <div style="text-align: center;"> 
 
 # <font color=#3B1072>Welcome to *Eureka!*</font>

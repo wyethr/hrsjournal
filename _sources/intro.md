@@ -1,3 +1,5 @@
+# <font color=#FFFFFF>MARS | Marlborough Academic Research and Scholarship</font>
+
 ````{div} full-width
 
 <div style="text-align: center;"> 

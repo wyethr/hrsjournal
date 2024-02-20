@@ -24,8 +24,21 @@ html[data-theme=light] {
 	visibility: hidden;
 }
 
-.bd-header-article {
-	visibility:hidden;
+
+.bd-header-article div.dropdown {
+	visibility: hidden;
+}
+
+.bd-header-article .theme-switch-button {
+	visibility: hidden;
+}
+
+.bd-header-article .btn.btn-sm.btn-fullscreen-button {
+	visibility: hidden;
+}
+
+.bd-header-article .btn.btn-sm.navbar-btn.search-button.search-button_button {
+	visibility: hidden;
 }
 
 div.abstract {

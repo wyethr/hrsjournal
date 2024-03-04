@@ -1,10 +1,5 @@
 # hrsjournal
 
-
-.bd-header-article {
-	visibility:hidden;
-}
-
 ## Potential Font
 
 Montserrat

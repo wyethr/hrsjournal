@@ -1,6 +1,8 @@
 format: jb-book
 root: intro
 chapters: 
+  - file: submit
+  - file: apply
   - file: issue1/landing
     sections:
     - file: issue1/humanities/landing

@@ -12,6 +12,18 @@ Eli Lerner | *Editor-In-Chief*
 
 [Wyeth Renwick](./authors/wyethRenwick/wyethRenwick.md) | *Editor-In-Chief*
 
+Mattie Epstein | *Humanities & Social Sciences Editor*
+
+Sally Cheng | *Humanities & Social Sciences Editor*
+
+Vic Perry | *Sciences Editor*
+
+Lauren Vick | *Sciences Editor*
+
+Emma Melville | *Website Editor*
+
+Riley Roggemkamp | *Website Editor*
+
 ```
 
 </div>

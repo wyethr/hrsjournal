@@ -1,4 +1,4 @@
-# Apply to Be an Editor
+# Editor Applications
 
 We are currently closed for staff applications. Dr. Ponzio and Dr. Lynch will announce final staff decisions for Issue 2 (2024-25).
 

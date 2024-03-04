@@ -1,4 +1,4 @@
-# Editor Applications
+# <font color=#3B1072>Editor Applications</font>
 
 We are currently closed for staff applications. Dr. Ponzio and Dr. Lynch will announce final staff decisions for Issue 2 (2024-25).
 

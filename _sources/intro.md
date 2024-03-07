@@ -1,4 +1,4 @@
-# <font color=#3B1072> Marlborough Academic Research Society </font>
+# Marlborough Academic Research Society 
 
 ````{div} full-width
 
@@ -6,7 +6,7 @@
 
 <div style="text-align: center;"> 
 
-```{sidebar} *<font color=#3B1072>Current Staff</font>*
+```{sidebar} *Current Staff*
 
 Eli Lerner | *Editor-In-Chief*
 

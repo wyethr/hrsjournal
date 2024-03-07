@@ -1,4 +1,4 @@
-# <font color=#3B1072>Editor Applications</font>
+# Editor Applications
 
 *MARS* is currently closed for staff applications. Issue 2 (2024-25) applications will open this fall.
 

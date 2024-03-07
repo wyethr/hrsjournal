@@ -6,10 +6,10 @@ html {
 }
 
 html[data-theme=light] {
-	--pst-color-link: #7d6b9b;
+	--pst-color-link: #260859;
 	--pst-color-link-hover: #ffd200;
 
-	--pst-color-primary: #ffd200;
+	--pst-color-primary: #7d6b9b;
 }
 
 .bd-sidebar-secondary {
@@ -46,6 +46,18 @@ html[data-theme=light] {
 }
 
 .bd-article-container h3 {
+	color: #260859;
+}
+
+.bd-article-container h4 {
+	color: #7d6b9b;
+}
+
+.bd-article-container h5 {
+	color: #260859;
+}
+
+.bd-article-container h6 {
 	color: #7d6b9b;
 }
 

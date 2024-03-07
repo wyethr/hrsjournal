@@ -2,17 +2,19 @@
 
 Thank you for your interest in submitting a paper to *MARS,* Marlborough’s student-run academic journal. Here is some important information to consider before submitting your article.
 
-## Eligibility
+## Author Guidelines
+
+### Eligibility
 
 *MARS* accepts papers of all different academic fields and disciplines, written by chief authors in grades 9-12. While *MARS* is closely affiliated with the Honors Research program, eligible papers may be produced for any class, or they can be independent research projects. 
 
 *MARS* only accepts polished drafts of papers, not project proposals. Any alternative forms of research will not be reviewed. 
 
-## Expectations for Authors
+### Expectations
 
 Accepted authors will receive feedback and make edits to their paper according to the recommendations of the journal staff. They will also be expected to undergo a short training on the peer review process, read one other student’s paper, and attend a meeting with *MARS* staff editors to discuss revisions to that paper. See below for more information on the peer review process.
 
-## Content
+## Content Guidelines
 
 Papers must be **proof-read** for grammar mistakes, and they must employ the thorough use of **peer-reviewed, scholarly sources** as well as **proper citations.** All secondary sources must be peer-reviewed or scholarly. Papers must be written for an audience of scholars with expertise in your discipline. However, for the sake of the *MARS* student editors, please define any particularly niche words or ideas.
 
@@ -29,7 +31,7 @@ If the paper was written for Honors Research, authors may also opt to publish on
 
 While we will review papers of any length (within reason), they must generally not exceed **10,000 words,** excluding their bibliography and abstract. An optional **acknowledgements section** may accompany the paper and will not be included in the word count.
 
-## Formatting
+## Formatting Guidelines
 
 Here is a [sample article](sample.pdf) off of which you can base your formatting.
 

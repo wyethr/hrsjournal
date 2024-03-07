@@ -64,3 +64,7 @@ div.abstract .admonition-title {
 .row {
 	display: flex;
 }
+
+footer.bd-footer-content .bd-footer-content__inner p.component-author {
+	visibility: hidden;
+}

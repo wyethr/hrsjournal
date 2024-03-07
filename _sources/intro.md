@@ -50,3 +50,8 @@ In the second semester, the *MARS* staff does final edits to standardize article
 
 [Read](./issue1/landing.md) Issue 1.
 
+```{image} images/line2.png
+:width: 1000px
+:align: center
+```
+

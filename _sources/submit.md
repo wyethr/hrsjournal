@@ -52,15 +52,15 @@ Citations must be submitted in the citation method consistent with the field of 
 
 ### Figures
 
-Submit all figures in a numbered appendix at the end of your article. All figures must be high resolution, and be accompanied by an appropriate figure caption.
+Submit all figures in a numbered appendix at the end of your article. All figures must be of high resolution, and are expected to be accompanied by an appropriate figure caption.
 
 ## Peer Review
 
 At *MARS,* one of our core goals is to give students experience with the peer-review process. This is an invaluable experience, both for our student editors, and for the authors themselves. Thus, we expect all authors to engage in the peer-review process, on both ends. **Should your paper be accepted, we also expect that you will aid in revising another student’s paper for publication.** We will train you on how to uphold *MARS* editing standards before you begin editing another’s work.
 
-Because we hold the peer review process to be extremely important, we will not publish papers without revisions. Receiving criticism is an incredibly useful skill, and we will be as constructive and compassionate as possible when suggesting revisions. We realize that we are not faultless, and you are welcome to reach out to *MARS* editors-in-chief, or *MARS* faculty advisors Dr. Ponzio and Dr. Lynch with any concerns.
+Because we hold the peer review process to be extremely important, we will not publish papers without revisions. Receiving criticism is an incredibly useful skill, and we will be as constructive and compassionate as possible when suggesting revisions. We realize that we are not faultless, and you are welcome to reach out to our editors-in-chief, or our faculty advisors Dr. Ponzio and Dr. Lynch, with any concerns.
 
-Though most professional journals employ double-blind peer review, this is not feasible in a high school setting. Both authors and reviewers will be aware of each others’ identities. We understand that it may be uncomfortable to leave your work in the hands of student editors. We can assure you that all *MARS* reviewers have previous research experience, have undergone training on the peer review process, and have the supervision of *MARS* editors-in-chiefs. 
+Though most professional journals employ double-blind peer review, this is not feasible in a high school setting. Both authors and reviewers will be aware of each others’ identities. We understand that it may be uncomfortable to leave your work in the hands of student editors. We can assure you that all *MARS* reviewers have previous research experience, have undergone training on the peer review process, and are under the supervision of *MARS* editors-in-chiefs. 
 
 ## Next Steps
 

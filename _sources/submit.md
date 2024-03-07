@@ -58,7 +58,7 @@ Citations must be submitted in the citation method consistent with the field of 
 
 Submit all figures in a numbered appendix at the end of your article. All figures must be high resolution, and be accompanied by an appropriate figure caption.
 
-## Peer Review Guidelines
+## Peer Review
 
 At *MARS,* one of our core goals is to give students experience with the peer-review process. This is an invaluable experience, both for our student editors, and for the authors themselves. Thus, we expect all authors to engage in the peer-review process, on both ends. **Should your paper be accepted, we also expect that you will aid in revising another student’s paper for publication.** We will train you on how to uphold *MARS* editing standards before you begin editing another’s work.
 

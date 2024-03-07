@@ -8,8 +8,9 @@ html {
 html[data-theme=light] {
 	--pst-color-link: #260859;
 	--pst-color-link-hover: #ffd200;
-
 	--pst-color-primary: #7d6b9b;
+
+	--pst-color-accent: #ffd200;
 }
 
 .bd-sidebar-secondary {

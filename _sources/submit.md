@@ -74,7 +74,7 @@ After submission, you can expect an email response from one of the *MARS* editor
 1. Upon submission, at least one editor will read every paper, and all subject editors will read every abstract before meeting to decide whether to accept or reject the submission. 
 2. After a paper is accepted, it will be revised by three *MARS* staff members, including an editor-in-chief, along with one student author. 
 3. All editors and peer reviewers will meet to discuss their revisions before sending a new version of the paper with suggested edits via email. 
-4. Authors will be in contact with one of the editors who worked on their paper, must they have any questions in implementing feedback, before submitting their finalized papers for publication. Authors are not expected to accept every revision. 
+4. Authors will be in contact with one of the editors who worked on their paper, should they have any questions in implementing feedback, before submitting their finalized papers for publication. Authors are not expected to accept every revision. 
 5. Each paper will be read over for a third and final time by an editor-in-chief before publication. 
 6. The first issue will be released at the Celebration of Innovation.
 

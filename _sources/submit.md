@@ -76,7 +76,7 @@ After submission, you can expect an email response from one of the *MARS* editor
 5. Each paper will be read over for a third and final time by an editor-in-chief before publication. 
 6. The first issue will be released at the Celebration of Innovation.
 
-## FAQ
+## Frequently Asked Questions
 
 ### Will publishing in *MARS* impede future publication?
 

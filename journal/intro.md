@@ -1,4 +1,4 @@
-# <font color=#3B1072> Marlborough Academic Research Society </font>
+# Marlborough Academic Research Society 
 
 ````{div} full-width
 
@@ -6,7 +6,7 @@
 
 <div style="text-align: center;"> 
 
-```{sidebar} *<font color=#3B1072>Current Staff</font>*
+```{sidebar} <font color = #260859>*Current Staff*</font>
 
 Eli Lerner | *Editor-In-Chief*
 
@@ -49,4 +49,9 @@ In the second semester, the *MARS* staff does final edits to standardize article
 [Apply](./apply.md) to be an editor on the journal staff.
 
 [Read](./issue1/landing.md) Issue 1.
+
+```{image} images/line3.png
+:width: 1000px
+:align: center
+```
 

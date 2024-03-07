@@ -1,19 +1,16 @@
 html {
 	--pst-icon-admonition-default: ;
-	--pst-color-link: #5D00C6;
+	--pst-color-link: #260859;
+
+	--pst-font-family-heading: Georgia, serif;
 }
 
 html[data-theme=light] {
-	--pst-color-link: #5D00C6;
-	--pst-color-link-hover: #E7D2FF;
+	--pst-color-link: #260859;
+	--pst-color-link-hover: #ffd200;
+	--pst-color-primary: #7d6b9b;
 
-	--pst-color-primary: #5D00C6;
-}
-
-:root, [data-bs-theme=light] {
-	--bs-link-color: #5D00C6;
-	--bs-link-hover-color: #E7D2FF;
-	--bs-primary: #5D00C6;
+	--pst-color-accent: #ffd200;
 }
 
 .bd-sidebar-secondary {
@@ -41,8 +38,32 @@ html[data-theme=light] {
 	visibility: hidden;
 }
 
+.bd-article-container h1 {
+	color: #260859;
+}
+
+.bd-article-container h2 {
+	color: #7d6b9b;
+}
+
+.bd-article-container h3 {
+	color: #260859;
+}
+
+.bd-article-container h4 {
+	color: #7d6b9b;
+}
+
+.bd-article-container h5 {
+	color: #260859;
+}
+
+.bd-article-container h6 {
+	color: #7d6b9b;
+}
+
 div.abstract {
-	border-left-color: #5D00C6;
+	border-left-color: #7d6b9b;
 }
 
 div.abstract .admonition-title {
@@ -55,4 +76,8 @@ div.abstract .admonition-title {
 
 .row {
 	display: flex;
+}
+
+footer.bd-footer-content .bd-footer-content__inner p.component-author {
+	visibility: hidden;
 }

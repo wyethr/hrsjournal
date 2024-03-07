@@ -1,3 +1,3 @@
-# <font color=#3B1072> Humanities & Social Sciences </font>
+# Humanities & Social Sciences
 
 ## Letter from the Editor

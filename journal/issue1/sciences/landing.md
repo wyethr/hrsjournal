@@ -1,3 +1,3 @@
-# <font color=#3B1072> Sciences </font>
+# Sciences
 
 ## Letter from the Editor

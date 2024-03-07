@@ -1,4 +1,4 @@
-# <font color=#3B1072> Issue 1 (2023-24) </font>
+# Issue 1 (2023-24)
 
 ## Letter from the Heads of the Leonetti/O'Connell Honors Research Program
 

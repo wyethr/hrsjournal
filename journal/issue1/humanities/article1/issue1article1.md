@@ -1,7 +1,7 @@
 # Gender and Genitalia in Slang: A Study of British English, 1200-1900
 
 *[Wyeth Renwick](../../../authors/wyethRenwick/wyethRenwick.md)*
-| Published online 16 January 2024
+| Published online 25 April 2024
 | Honors Research in the Humanities
 
 ```{margin} Access Options

@@ -6,7 +6,7 @@
 
 <div style="text-align: center;"> 
 
-```{sidebar} *Current Staff*
+```{sidebar} <font color = #260859>*Current Staff*</font>
 
 Eli Lerner | *Editor-In-Chief*
 

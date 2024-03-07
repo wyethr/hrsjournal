@@ -19,13 +19,11 @@ Accepted authors will receive feedback and make edits to their paper according t
 Papers must be **proof-read** for grammar mistakes, and they must employ the thorough use of **peer-reviewed, scholarly sources** as well as **proper citations.** All secondary sources must be peer-reviewed or scholarly. Papers must be written for an audience of scholars with expertise in your discipline. However, for the sake of the *MARS* student editors, please define any particularly niche words or ideas.
 
 Each article published online is also expected to include 
-
 - a **150-250 word abstract,** summarizing the premise, methods, and conclusions of the paper. For more information on writing a thorough abstract, see [this](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/) resource. 
 - a **complete bibliography section.** See below on expectations for references.
 - a **headshot** of the author, along with their institutional affiliation(s). For guidelines on a proper headshot, see [this](https://satsuite.collegeboard.org/sat/registration/online-registration/photo-requirements) resource.
 
 If the paper was written for Honors Research, authors may also opt to publish on their author page
-
 - their **TEDxMarlborough recording**
 - their **poster** for the Celebration of Innovation
 
@@ -36,14 +34,12 @@ While we will review papers of any length (within reason), they must generally n
 Here is a [sample article](sample.pdf) off of which you can base your formatting.
 
 Each submission must have a **title page** including 
-
 - full title of the paper
 - the name, institutional affiliation, and grade of the primary author in the year that the paper was written
 - the title, role, and institutional affiliation(s) of any mentors/co-authors
 - if applicable, the title of the class for which the paper was produced
 
 Papers must be submitted as a Google Doc. Expectations are that the article is formatted with 
-
 - double spacing
 - 1.5 inch margins
 - 12 point Times New Roman font

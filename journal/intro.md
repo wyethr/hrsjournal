@@ -32,7 +32,7 @@ Riley Roggemkamp | *Website Editor*
 
 ### Our Mission
 
-INSERT
+The Marlborough Academic Research Society *(MARS)* aims to provide Marlborough students from all backgrounds with the opportunity to edit, refine, and publish their research. By facilitating robust discussions across a diverse range of academic fields, and by teaching students how to navigate the peer review process, *MARS* hopes to prepare Marlborough students for future scholarly research and publication. In disseminating quality research in the sciences, social sciences, and  humanities, *MARS* looks to challenge and amplify existing knowledge.
 
 #### *How do I get involved?*
 
@@ -41,10 +41,6 @@ INSERT
 [Apply](./apply.md) to be an editor on the journal staff.
 
 [Read](./issue1/landing.md) Issue 1.
-
-### Our Editorial Values
-
-INSERT
 
 ### Our History
 

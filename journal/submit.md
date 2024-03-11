@@ -2,6 +2,12 @@
 
 Thank you for your interest in submitting a paper to *MARS,* Marlborough’s student-run academic journal. Here is some important information to consider before submitting your article.
 
+Fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScOu9p1esOBgegB4a2pdl899FHnj7qimCk-O9nP20wgzsSdpg/formResponse) form to submit your article.
+
+### Deadlines
+
+Our inaugural issue opens for submissions on **Monday, March 11, 2024.** The last day to submit an article is **Friday, March 15, 2024.** Decisions will be released on **Monday, March 18, 2024.**
+
 ## Author Guidelines
 
 ### Eligibility
@@ -67,12 +73,13 @@ Though most professional journals employ double-blind peer review, this is not f
 After submission, you can expect an email response from one of the *MARS* editors within 1-3 weeks, informing you of whether your paper has been accepted with revisions or rejected. **No papers will be accepted without revisions.**  
 
 
-1. Upon submission, at least one editor will read every paper, and all subject editors will read every abstract before meeting to decide whether to accept or reject the submission. 
-2. After a paper is accepted, it will be revised by three *MARS* staff members, including an editor-in-chief, along with one student author. 
-3. All editors and peer reviewers will meet to discuss their revisions before sending a new version of the paper with suggested edits via email. 
-4. Authors will be in contact with one of the editors who worked on their paper, should they have any questions in implementing feedback, before submitting their finalized papers for publication. Authors are not expected to accept every revision. 
-5. Each paper will be read over for a third and final time by an editor-in-chief before publication. 
-6. The first issue will be released at the Celebration of Innovation.
+1. Fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScOu9p1esOBgegB4a2pdl899FHnj7qimCk-O9nP20wgzsSdpg/formResponse) form to submit your article.
+2. Upon submission, at least one editor will read every paper, and all subject editors will read every abstract before meeting to decide whether to accept or reject the submission. 
+3. After a paper is accepted, it will be revised by three *MARS* staff members, including an editor-in-chief, along with one student author. 
+4. All editors and peer reviewers will meet to discuss their revisions before sending a new version of the paper with suggested edits via email. 
+5. Authors will be in contact with one of the editors who worked on their paper, should they have any questions in implementing feedback, before submitting their finalized papers for publication. Authors are not expected to accept every revision. 
+6. Each paper will be read over for a third and final time by an editor-in-chief before publication. 
+7. The first issue will be released at the Celebration of Innovation.
 
 ## Frequently Asked Questions
 

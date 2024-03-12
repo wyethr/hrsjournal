@@ -24,19 +24,9 @@ Emma Melville | *Website Editor*
 
 Riley Roggemkamp | *Website Editor*
 
-<div style="text-align: center;"> 
-
-```{sidebar} <font color = #260859>*Faculty Advisors*</font>
-
-Dr. Allison Ponzio 
-
-Dr. Dan Lynch
-
-Mx. Ari Roby
+</div>
 
 ```
-
-</div>
 
 ### Our Mission
 
@@ -49,6 +39,20 @@ The Marlborough Academic Research Society *(MARS)* aims to provide Marlborough s
 [Apply](./apply.md) to be an editor on the journal staff.
 
 [Read](./issue1/landing.md) Issue 1.
+
+<div style="text-align: center;"> 
+
+```{sidebar} <font color = #260859>*Faculty Advisors*</font>
+
+Dr. Allison Ponzio 
+
+Dr. Dan Lynch
+
+Mx. Ari Roby
+
+</div>
+
+```
 
 ### Our History
 

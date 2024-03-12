@@ -24,7 +24,15 @@ Emma Melville | *Website Editor*
 
 Riley Roggemkamp | *Website Editor*
 
+<div style="text-align: center;"> 
 
+```{sidebar} <font color = #260859>*Faculty Advisors*</font>
+
+Dr. Allison Ponzio 
+
+Dr. Dan Lynch
+
+Mx. Ari Roby
 
 ```
 

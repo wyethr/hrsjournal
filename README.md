@@ -2,11 +2,11 @@
 
 ## Instructions for Website Editors
 
-### Just Starting Out
+### How to start
 
 1. Make a [Python virtual environment](https://github.com/dkessner/CSProjects/blob/main/hello_venv/readme.md)
 2. Install the required software into the virtual environment (see requirements.txt)
-3. Explore the Github repository to get a sense for the 
+3. Explore the Github repository to get a sense for the site's organization
 
 ### Terminal Commands
 

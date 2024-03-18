@@ -18,7 +18,7 @@ Watch her 2024 Ted Talk [here](https://drive.google.com/file/d/1x9mPC6CXL4CE_tQB
 
 ```{margin} Positions
 
-Co-Founder, Editor-In-Chief, Contributor | *Issue 1 (2023-24)*
+Co-Founder, Editor-In-Chief | *Issue 1 (2023-24)*
 
 ```
 

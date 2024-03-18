@@ -11,13 +11,13 @@ Hi Dr. Ponzio and Dr. Lynch!
 
 ## Journal Staff
 
-Eli Lerner | *Editor-In-Chief*
+[Eli Lerner](./authors/eliLerner/eliLerner.md) | *Editor-In-Chief*
 
-[Wyeth Renwick](../authors/wyethRenwick/wyethRenwick.md) | *Editor-In-Chief*
+[Wyeth Renwick](./authors/wyethRenwick/wyethRenwick.md) | *Editor-In-Chief*
 
-Mattie Epstein | *Humanities & Social Sciences Editor*
+[Mattie Epstein](./authors/mattieEpstein/mattieEpstein.md) | *Humanities & Social Sciences Editor*
 
-Sally Cheng | *Humanities & Social Sciences Editor*
+[Sally Cheng](./authors/sallyCheng/sallyCheng.md) | *Humanities & Social Sciences Editor*
 
 Vic Perry | *Sciences Editor*
 

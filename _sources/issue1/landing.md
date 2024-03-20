@@ -11,7 +11,7 @@ Hi Dr. Ponzio and Dr. Lynch!
 
 ## Journal Staff
 
-[Eli Lerner](./authors/eliLerner/eliLerner.md) | *Editor-In-Chief*
+[Eli Lerner](../authors/eliLerner/eliLerner.md) | *Editor-In-Chief*
 
 [Wyeth Renwick](./authors/wyethRenwick/wyethRenwick.md) | *Editor-In-Chief*
 

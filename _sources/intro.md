@@ -16,7 +16,7 @@
 
 [Sally Cheng](./authors/sallyCheng/sallyCheng.md) | *Humanities & Social Sciences Editor*
 
-Vic Perry | *Sciences Editor*
+[Vic Perry](./authors/vicPerry/vicPerry.md) | *Sciences Editor*
 
 Lauren Vick | *Sciences Editor*
 

@@ -13,13 +13,13 @@ Hi Dr. Ponzio and Dr. Lynch!
 
 [Eli Lerner](../authors/eliLerner/eliLerner.md) | *Editor-In-Chief*
 
-[Wyeth Renwick](./authors/wyethRenwick/wyethRenwick.md) | *Editor-In-Chief*
+[Wyeth Renwick](../authors/wyethRenwick/wyethRenwick.md) | *Editor-In-Chief*
 
-[Mattie Epstein](./authors/mattieEpstein/mattieEpstein.md) | *Humanities & Social Sciences Editor*
+[Mattie Epstein](../authors/mattieEpstein/mattieEpstein.md) | *Humanities & Social Sciences Editor*
 
-[Sally Cheng](./authors/sallyCheng/sallyCheng.md) | *Humanities & Social Sciences Editor*
+[Sally Cheng](../authors/sallyCheng/sallyCheng.md) | *Humanities & Social Sciences Editor*
 
-Vic Perry | *Sciences Editor*
+[Vic Perry](../authors/vicPerry/vicPerry.md) | *Sciences Editor*
 
 Lauren Vick | *Sciences Editor*
 

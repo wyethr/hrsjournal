@@ -35,7 +35,7 @@ If you are getting an error about password authentication when trying to run ghp
 
 #### General JupyterBook Formatting
 
-sampleJupyterBook is the sample Jupyter Book that Jupyter provides in its tutorial - you should look in here if you have questions, or check out Jupyter's online documentation.
+In the root directory, sampleJupyterBook is the sample Jupyter Book that Jupyter provides in its tutorial - you should look in here if you have questions, or check out Jupyter's online documentation.
 
 ##### Changing the sidebar
 
@@ -43,7 +43,7 @@ sampleJupyterBook is the sample Jupyter Book that Jupyter provides in its tutori
 
 #### MARS-Specific Formatting
 
-In _static_ folder, there is a file called custom.css. Here is where you should put any changes you want to make to the css.
+In the _static_ folder, there is a file called custom.css. Here is where you should put any changes you want to make to the css.
 
 See the sampleWebsiteFormat for a basic outline on the naming conventions and format for author pages and articles. You can also always explore the issue1 folder to get a feel for how each issue should be organized.
 

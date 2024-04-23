@@ -13,7 +13,7 @@ Marlborough 2025
 
 ```{margin} Positions
 
-Sciences Editor | *Issue 1 (2024-25)*
+Sciences Editor | *Issue 1 (2023-24)*
 
 ```
 

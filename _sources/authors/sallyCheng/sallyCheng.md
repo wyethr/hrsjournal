@@ -9,7 +9,7 @@ Marlborough 2025
 
 ```{margin} Positions
 
-Humanities & Social Sciences Editor | *Issue 1 (2024-25)*
+Humanities & Social Sciences Editor | *Issue 1 (2023-24)*
 
 ```
 

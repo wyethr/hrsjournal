@@ -10,6 +10,8 @@ Marlborough 2024
 
 ``` {margin}
 
+Download an excerpt from *What Horizon,* his adaptation of *Les Misérables* [here](./whatHorizonExcerpt.pdf)
+
 Download his 2023 Celebration of Innovation poster [here](./percyLiftinHarris2023Poster.pptx.pdf)
 
 ```

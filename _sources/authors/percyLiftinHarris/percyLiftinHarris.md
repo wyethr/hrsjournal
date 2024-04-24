@@ -10,6 +10,7 @@ Marlborough 2024
 
 ``` {margin}
 
+Download his 2023 Celebration of Innovation poster [here](./percyLiftinHarris2023Poster.pptx.pdf)
 
 ```
 

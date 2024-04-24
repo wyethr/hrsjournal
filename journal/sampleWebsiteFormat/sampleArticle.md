@@ -10,6 +10,8 @@
 - The article's date of publication should be written day, month, year: 25 April 2024
 - Include in the name of the article folder and any affiliated files the author's last name, and then a key word or phrase to sum up their article (eg renwickGender.md, renwickGender.pdf)
 - If the paper was not produced for a class, delete that section 
+- Website editors are usually the only ones who look in depth into people's references, so we are also de-facto bibliography editors - check for spelling mistakes, consistency (eg in date format), missing punctuation, capitalization issues, etc. 
+- Remember to add the article page to the toc.yml file so that it'll show up in the sidebar
 
 -----
 

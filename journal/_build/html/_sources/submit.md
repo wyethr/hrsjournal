@@ -37,7 +37,7 @@ While we will review papers of any length (within reason), they must generally n
 
 ## Formatting Guidelines
 
-Here is a [sample article](sample.pdf) off of which you can base your formatting.
+Here is a [sample article](sampleArticleFormat.pdf) off of which you can base your formatting.
 
 Each submission must have a **title page** including 
 - full title of the paper

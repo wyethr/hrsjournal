@@ -7,5 +7,10 @@ chapters:
     sections:
     - file: issue1/humanities/landing
       sections:
-      - file: issue1/humanities/article1/issue1article1
+      - file: issue1/humanities/mustangGender/mustangGender
+      - file: issue1/humanities/lernerMainstream/lernerMainstream
+      - file: issue1/humanities/liftinInsurrection/liftinInsurrection
+      - file: issue1/humanities/affleckLanguage/affleckLanguage
     - file: issue1/sciences/landing
+      sections:
+      - file: issue1/sciences/ronenEpigenetics/ronenEpigenetics

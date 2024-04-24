@@ -18,11 +18,11 @@
 
 [Vic Perry](./authors/vicPerry/vicPerry.md) | *Sciences Editor*
 
-Lauren Vick | *Sciences Editor*
+[Lauren Vick](./authors/laurenVick/laurenVick.md) | *Sciences Editor*
 
-Emma Melville | *Website Editor*
+[Emma Melville](./authors/emmaMelville/emmaMelville.md) | *Website Editor*
 
-Riley Roggemkamp | *Website Editor*
+[Riley Roggemkamp](./authors/rileyRoggemkamp/rileyRoggemkamp.md) | *Website Editor*
 
 </div>
 

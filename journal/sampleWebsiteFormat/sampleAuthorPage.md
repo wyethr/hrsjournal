@@ -7,7 +7,7 @@
 - "Contributor" is a position
 - Put the most recent issues / positions at the top of the Positions list (so the bottom of the list should be the least recent positions held)
 - If no college commit yet, take out the college section
-- Make sure files associated with the author are labelled with their name (wyethRenwick.jpeg, wyethRenwickPoster.png)
+- Make sure files associated with the author are labelled with their name (wyethRenwick.jpeg, wyethRenwick2024Poster.png)
 - All downloadables/links should be in the first margin section, and all positions held should be in the section margin section. (If it's not in the position list, it should be in the margin section above)
 - Like the Positions List, the first margin section should also be reverse-chronologically (the bottom of the list should be the least recent posters/TedTalks/etc)
 
@@ -25,9 +25,11 @@ Marlborough YEAR
 
 ``` {margin}
 
+Read her Issue X (YEAR) letter from the editor [here](PATH TO LETTER HERE).
+
 Download her YEAR poster [here](PATH TO POSTER FILE).
 
-Watch her YEAR Ted Talk [here](LINK TO RECORDING).
+Watch her 2024 TedxMarlborough talk [here](LINK TO RECORDING).
 
 ```
 

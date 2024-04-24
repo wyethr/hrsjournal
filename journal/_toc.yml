@@ -14,3 +14,4 @@ chapters:
     - file: issue1/sciences/landing
       sections:
       - file: issue1/sciences/ronenEpigenetics/ronenEpigenetics
+      - file: issue1/sciences/vickTraumatic/vickTraumatic

@@ -51,23 +51,35 @@ Mx. Ari Roby
 
 ## Contributors
 
-[Wyeth Renwick](../authors/wyethRenwick/wyethRenwick.md)
+[Violet Affleck](../authors/violetAffleck/violetAffleck.md) '24
+| *Social Sciences*
+
+[Eli Lerner](../authors/eliLerner/eliLerner.md) '24
 | *Humanities*
+
+[Percy Liftin-Harris](../authors/percyLiftinHarris/percyLiftinHarris.md) '24
+| *Social Sciences*
+
+[Lior Ronen](../authors/liorRonen/liorRonen.md) '24
+| *Sciences*
+
+[Lauren Vick](../authors/laurenVick/laurenVick.md) '25
+| *Sciences*
 
 ## Journal Staff
 
-[Eli Lerner](../authors/eliLerner/eliLerner.md) | *Editor-In-Chief*
+[Eli Lerner](../authors/eliLerner/eliLerner.md) '24 | *Editor-In-Chief*
 
-[Wyeth Renwick](../authors/wyethRenwick/wyethRenwick.md) | *Editor-In-Chief*
+[Wyeth Renwick](../authors/wyethRenwick/wyethRenwick.md) '24 | *Editor-In-Chief*
 
-[Mattie Epstein](../authors/mattieEpstein/mattieEpstein.md) | *Humanities & Social Sciences Editor*
+[Mattie Epstein](../authors/mattieEpstein/mattieEpstein.md) '25 | *Humanities & Social Sciences Editor*
 
-[Sally Cheng](../authors/sallyCheng/sallyCheng.md) | *Humanities & Social Sciences Editor*
+[Sally Cheng](../authors/sallyCheng/sallyCheng.md) '25 | *Humanities & Social Sciences Editor*
 
-[Vic Perry](../authors/vicPerry/vicPerry.md) | *Sciences Editor*
+[Vic Perry](../authors/vicPerry/vicPerry.md) '25 | *Sciences Editor*
 
-[Lauren Vick](../authors/laurenVick/laurenVick.md) | *Sciences Editor*
+[Lauren Vick](../authors/laurenVick/laurenVick.md) '25 | *Sciences Editor*
 
-[Emma Melville](../authors/emmaMelville/emmaMelville.md) | *Website Editor*
+[Emma Melville](../authors/emmaMelville/emmaMelville.md) '25 | *Website Editor*
 
-[Riley Roggemkamp](../authors/rileyRoggemkamp/rileyRoggemkamp.md) | *Website Editor*
+[Riley Roggemkamp](../authors/rileyRoggemkamp/rileyRoggemkamp.md) '25 | *Website Editor*

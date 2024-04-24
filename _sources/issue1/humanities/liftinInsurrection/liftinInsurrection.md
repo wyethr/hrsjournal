@@ -1,4 +1,4 @@
-# “Insurrection, Riot, and Points of Difference”: The Impacts of Different Characterizations of the Rebellion in Adaptations of Les Misérables
+# “Insurrection, Riot, and Points of Difference”: The Impacts of Different Characterizations of the Rebellion in Adaptations of *Les Misérables*
 
 *[Percy Liftin-Harris](../../../authors/percyLiftinHarris/percyLiftinHarris.md)*
 | Published online 25 April 2024

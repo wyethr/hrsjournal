@@ -1,4 +1,4 @@
-```{image} liorRonen.jpeg
+```{image} liorRonen.jpg
 :height: 100px
 :align: left
 ```

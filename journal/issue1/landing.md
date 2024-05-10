@@ -82,4 +82,4 @@ Mx. Ari Roby
 
 [Emma Melville](../authors/emmaMelville/emmaMelville.md) '25 | *Website Editor*
 
-[Riley Roggemkamp](../authors/rileyRoggemkamp/rileyRoggemkamp.md) '25 | *Website Editor*
+[Riley Roggenkamp](../authors/rileyRoggenkamp/rileyRoggenkamp.md) '25 | *Website Editor*

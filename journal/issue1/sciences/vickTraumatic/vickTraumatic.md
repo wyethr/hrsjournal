@@ -13,7 +13,7 @@ Download the full paper [here](./vickTraumatic.pdf).
 ```{admonition} Abstract
 :class: abstract
 
-INSERT ABSTRACT
+The literature on mild traumatic brain injury (mTBI) is limited in that it does not sufficiently examine the possible connection between concussions experienced in adolescence and later onset neurodegenerative diseases. Research in this area could help to develop our understanding of the brain bases for dementia, Alzheimer’s disease, and progressive supranuclear palsy, and provide newly informed treatment plans for affected individuals. It has been strongly suggested that adolescents have prolonged symptoms following mTBI as compared to adults, thus alluding to the hypothesis of concussions experienced in this time frame being more detrimental to brain development. This literature review will (1) use various sources to outline a clear definition of concussion, (2) explain concussion on the cellular level in the context of adolescents, (3) examine behavioral symptoms, and (4) suggest further research to add to the general knowledge of concussion. 
 ```
 
 ## References

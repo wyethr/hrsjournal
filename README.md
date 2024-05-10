@@ -50,7 +50,7 @@ See the sampleWebsiteFormat for a basic outline on the naming conventions and fo
 
 ### Brand Guide
 
-*Dr. Ponzio is hiring a graphic designer to do a CEI rebranding, so speak to her on updated logo, color, and font information.**
+*Dr. Ponzio is hiring a graphic designer to do a CEI rebranding, so speak to her on updated logo, color, and font information.*
 
 Look in the marlboroughBrandGuide folder for general information on Marlborough's color palette and fonts.
 

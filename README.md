@@ -26,6 +26,7 @@ jb build journal
 ```
 jb clean journal
 jb build journal
+ghp-import -n -p -f journal/_build/html
 ```
 
 If you are getting an error about password authentication when trying to run ghp-import, you'll need to make a personal acccess token via Github. Then, after you run the command, copy the personal access into the space where it prompts you to insert your password.

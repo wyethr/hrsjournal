@@ -1,9 +1,9 @@
-```{image} rileyRoggemkamp.jpeg
+```{image} rileyRoggenkamp.jpeg
 :height: 100px
 :align: left
 ```
 
-# Riley Roggemkamp
+# Riley Roggenkamp
 
 Marlborough 2025
 

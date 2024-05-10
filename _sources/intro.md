@@ -22,7 +22,7 @@
 
 [Emma Melville](./authors/emmaMelville/emmaMelville.md) | *Website Editor*
 
-[Riley Roggemkamp](./authors/rileyRoggemkamp/rileyRoggemkamp.md) | *Website Editor*
+[Riley Roggenkamp](./authors/rileyRoggenkamp/rileyRoggenkamp.md) | *Website Editor*
 
 </div>
 

@@ -33,7 +33,6 @@ Download the full paper [here](PATH TO PAPER).
 INSERT ABSTRACT
 ```
 
-
 ## References
 
 INSERT REFERENCES

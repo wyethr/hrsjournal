@@ -1,5 +1,11 @@
 # hrsjournal
 
+## Goals for Issue 2 (2024-25)
+
+- Transition to reaL URL or marlborough-school.github.io/mars
+- Redesign website in line with Dr. Ponzio's graphic designer 
+- Reorganize author pages folder so that each author folder is grouped by graduation year (eg folder 2024, 2025, etc)
+
 ## Instructions for Website Editors
 
 ### How to Start
@@ -62,6 +68,6 @@ Look in the images folder for logos (currently we are using the floral one). Als
 #### Colors
 
 The colors used on the site are currently close to but not exactly the same as those recommended by the Marlborough brand guide. See custom.css for the most updated color palette.
-- **HEX260859**: *dark purple.* Links, H1, H3, H5
-- **HEXffd200**: *yellow.* Hovered links, accent color
-- **HEX7d6b9b**: *light purple* H2, H4, H6
+- **HEX260859**: *dark purple;* links, H1, H3, H5
+- **HEXffd200**: *yellow;* hovered links, accent color
+- **HEX7d6b9b**: *light purple;* H2, H4, H6

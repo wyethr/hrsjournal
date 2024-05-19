@@ -64,7 +64,7 @@ Honors Research in Science was first developed by Dr. Arleen Forsheit in 1994 as
 
 The Leonetti/O’Connell Honors Research Program provides students with the opportunity to define, design, and conduct original research across the sciences, humanities, and social sciences under the mentorship of an academic expert in the field. Past mentors have included local scholars from UCLA, USC and Children’s Hospital Los Angeles, and mentors from as far away as Harvard University, Stanford University, Georgetown University, and the London School of Economics. Pushed beyond our AP curriculum, this program challenges our students to gain early fluency in scholarly reading and writing, produce relevant and valuable research, and learn to communicate their results at a professional level. Students participate in TEDxMarlborough, which allows them to bring their research informally to the community through a series of lunchtime talks, and also the annual Celebration of Innovation, which allows them to summarize their year long research projects into a formal poster presentation. 
 
-```{image} images/line3.png
+```{image} images/lineFloral.png
 :width: 1000px
 :align: center
 ```

@@ -14,6 +14,13 @@
 2. Install the required software into the virtual environment (see requirements.txt)
 3. Explore the Github repository to get a sense for the site's organization
 
+### How to Make an Issue
+
+- See this README.md for general formatting
+- See sampleWebsiteFormat for information on aricle and author pages, including formatting, naming conventions, and file organization
+- See sampleJupyterBook for a guide on JupyterBook and Markdown
+- Mimic the organization of issue1 if you have any other questions (note that the gis folder is unique in its naming conventions and is therefore not a good guide, as this article is the only one in issue1 published anonymously)
+
 ### Terminal Commands
 
 #### To Test Journal Locally

@@ -7,7 +7,7 @@ chapters:
     sections:
     - file: issue1/humanities/landing
       sections:
-      - file: issue1/humanities/mustangGender/mustangGender
+      - file: issue1/humanities/gis/gis
       - file: issue1/humanities/lernerMainstream/lernerMainstream
       - file: issue1/humanities/liftinInsurrection/liftinInsurrection
     - file: issue1/sciences/landing

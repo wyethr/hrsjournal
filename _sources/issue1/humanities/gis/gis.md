@@ -7,7 +7,7 @@ Published online 25 April 2024
 
 Download the full paper [here](./mustangGender.pdf).
 
-Download the full database {download}'here<./Genitalia_in_Slang_(GIS)_ A Database.xlsx>'.
+Download the full database [here](https://docs.google.com/spreadsheets/d/10Nln41L-asLiQR8LHC3uC8POxaEVgPzmNSImBPOpGcA/edit?usp=sharing).
 ```
 
 ```{admonition} Abstract
